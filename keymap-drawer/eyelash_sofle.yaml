@@ -52,7 +52,7 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
-  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:volume-off$$
   - LEFT WIN
   - $$mdi:apple-keyboard-option$$
@@ -87,9 +87,9 @@ layers:
   - F10
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - PG UP
-  - END
-  - $$mdi:arrow-up-bold$$
   - HOME
+  - $$mdi:arrow-up-bold$$
+  - END
   - {t: '-', s: _}
   - {t: '=', s: +}
   - {t: '$$mdi:transfer$$', type: trans}
